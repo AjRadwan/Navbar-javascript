@@ -76,9 +76,7 @@ nav{
           transform: translateX(100%);
        transition: transform 0.5s ease-in;
     }
-    .nav-link li {
-         
-    }
+    
 
     .burger{
        display: block;
